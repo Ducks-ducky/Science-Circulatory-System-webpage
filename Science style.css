@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #3f4ce1;
+}
+
+nav img{
+    width: 50px;
+    height: 41px;
+    margin-top: 3px;
+    margin-left: 25%;
+}
+
+.navlinks li{
+    display: inline-flex;
+    padding: 13px;
+    margin-left: 7%;
+}
+
+.header{
+    background-image: url();
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+    position: relative;
+    text-align: center;
+    color: rgb(251, 137, 137);
+}
+
+nav a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(251, 137, 137);
+    padding-bottom: 8%;
+    margin: 8px;
+}
+
+ .Welcome p{
+    color: rgb(251, 137, 137);
+    text-align: center;
+    font-size: x-large;
+    text-justify: auto;
+    height: 90px;
+    margin-top: -60%;
+    padding: 8%;
+}
+.Welcome2 p{
+    color: rgb(251, 137, 137);
+    text-align: center;
+    font-size: large;
+    padding: 3%;
+}
+
+footer{
+    color: rgb(251, 137, 137);
+    text-align: center;
+    font-size: larger;
+    padding: 5%;
+    font-weight: bolder;
+}
+
+input{
+    text-align: center;
+}
+
+form{
+    justify-self: center;
+    padding-bottom: 8%;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top:5%;
+}
